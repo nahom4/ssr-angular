@@ -44,4 +44,3 @@ To execute unit tests with the [Karma](https://karma-runner.github.io) test runn
 ng test
 ```
 ng e2e
-```
